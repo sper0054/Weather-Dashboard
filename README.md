@@ -13,7 +13,7 @@ When you load the page, the current date and time is displayed at the top. When 
 * Moment.js
 
 ## How it looks
-![Weather-Dashboard Screen-Shot](https://github.com/sper0054/Work-Day-Scheduler/blob/main/Screen%20Shot.png)
+![Weather-Dashboard Screen-Shot](https://github.com/sper0054/Weather-Dashboard/blob/main/Screen%20Shot.png)
 
 ## Links
 [Weather-Dashboard website](https://sper0054.github.io/Work-Day-Scheduler/)
