@@ -10,7 +10,7 @@ When you type in a city name and click the search button, the current weather an
 * JavaScript
 * Bootstrap
 * jQuery
-* Moment.js
+* OpenWeather One Call API
 
 ## How it looks
 ![Weather-Dashboard Screen-Shot](https://github.com/sper0054/Weather-Dashboard/blob/main/Screen%20Shot.png)
