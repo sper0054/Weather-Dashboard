@@ -1,8 +1,8 @@
 # Weather-Dashboard
-A application that will display the current weather and 5-day forecast for a city.
+A application that will display the current weather and 5-day forecast for a city using OpenWeather One Call API.
 
 ## Description
-When you load the page, the current date and time is displayed at the top. When you click into a timeblock you can type an task and hit the save button. When you refresh the page, the task will still appear. As time ticks away, the past hours will turn grey, the current hour will be red, and future hours will be green.
+When you type in a city name and click the search button, the current weather and five day forecase for the city will be displayed.  The weather information included is: weather icon, temperature, wind, humididty, and current UV index.  The UV index will be color coded green-favorable, yellow-moderate, red-severe. The cities searched will be saved and displayed as buttons on the left side of the page to return to if needed.
 
 ## Built With
 * HTML
