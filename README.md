@@ -16,7 +16,7 @@ When you type in a city name and click the search button, the current weather an
 ![Weather-Dashboard Screen-Shot](https://github.com/sper0054/Weather-Dashboard/blob/main/Screen%20Shot.png)
 
 ## Links
-[Weather-Dashboard website](https://sper0054.github.io/Work-Day-Scheduler/)
+[Weather-Dashboard website](https://sper0054.github.io/Weather-Dashboard/)
 
 ## Acknowledgments
 This is the week 6 challenge project of Michigan St. full-stack web development coding bootcamp.
